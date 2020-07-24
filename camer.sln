@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "camer", "camer\camer.vcxproj", "{5F94D763-B275-47CD-9628-73E520F487D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DebugMsvcplayer|x64 = DebugMsvcplayer|x64
+		DebugMsvcplayer|x86 = DebugMsvcplayer|x86
+		Debugplayer|x64 = Debugplayer|x64
+		Debugplayer|x86 = Debugplayer|x86
+		ReleaseCollection|x64 = ReleaseCollection|x64
+		ReleaseCollection|x86 = ReleaseCollection|x86
+		ReleaseMsvcplayer|x64 = ReleaseMsvcplayer|x64
+		ReleaseMsvcplayer|x86 = ReleaseMsvcplayer|x86
+		Releaseplayer|x64 = Releaseplayer|x64
+		Releaseplayer|x86 = Releaseplayer|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F94D763-B275-47CD-9628-73E520F487D3}.DebugMsvcplayer|x64.ActiveCfg = DebugMsvc|x64
+		{5F94D763-B275-47CD-9628-73E520F487D3}.DebugMsvcplayer|x64.Build.0 = DebugMsvc|x64
+		{5F94D763-B275-47CD-9628-73E520F487D3}.DebugMsvcplayer|x86.ActiveCfg = DebugMsvc|Win32
+		{5F94D763-B275-47CD-9628-73E520F487D3}.DebugMsvcplayer|x86.Build.0 = DebugMsvc|Win32
+		{5F94D763-B275-47CD-9628-73E520F487D3}.Debugplayer|x64.ActiveCfg = Debug|x64
+		{5F94D763-B275-47CD-9628-73E520F487D3}.Debugplayer|x64.Build.0 = Debug|x64
+		{5F94D763-B275-47CD-9628-73E520F487D3}.Debugplayer|x86.ActiveCfg = Debug|Win32
+		{5F94D763-B275-47CD-9628-73E520F487D3}.Debugplayer|x86.Build.0 = Debug|Win32
+		{5F94D763-B275-47CD-9628-73E520F487D3}.ReleaseCollection|x64.ActiveCfg = ReleaseCollection|x64
+		{5F94D763-B275-47CD-9628-73E520F487D3}.ReleaseCollection|x64.Build.0 = ReleaseCollection|x64
+		{5F94D763-B275-47CD-9628-73E520F487D3}.ReleaseCollection|x86.ActiveCfg = ReleaseCollection|Win32
+		{5F94D763-B275-47CD-9628-73E520F487D3}.ReleaseCollection|x86.Build.0 = ReleaseCollection|Win32
+		{5F94D763-B275-47CD-9628-73E520F487D3}.ReleaseMsvcplayer|x64.ActiveCfg = ReleaseMsvc|x64
+		{5F94D763-B275-47CD-9628-73E520F487D3}.ReleaseMsvcplayer|x64.Build.0 = ReleaseMsvc|x64
+		{5F94D763-B275-47CD-9628-73E520F487D3}.ReleaseMsvcplayer|x86.ActiveCfg = ReleaseMsvc|Win32
+		{5F94D763-B275-47CD-9628-73E520F487D3}.ReleaseMsvcplayer|x86.Build.0 = ReleaseMsvc|Win32
+		{5F94D763-B275-47CD-9628-73E520F487D3}.Releaseplayer|x64.ActiveCfg = Release|x64
+		{5F94D763-B275-47CD-9628-73E520F487D3}.Releaseplayer|x64.Build.0 = Release|x64
+		{5F94D763-B275-47CD-9628-73E520F487D3}.Releaseplayer|x86.ActiveCfg = Release|Win32
+		{5F94D763-B275-47CD-9628-73E520F487D3}.Releaseplayer|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23614EC9-CF0A-43F9-9046-B16B00B23127}
+	EndGlobalSection
+EndGlobal
